@@ -1,0 +1,81 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+
+h1{
+      font-weight:700
+      font-size:50px; 
+    }
+    .title-color{
+      color:#FABE4C;
+    }
+    .text-color{
+      color:#363958
+    }
+    .card{
+      border:none;
+      border-radius: 25px;
+    }
+    .my-text-design{
+text-transform: uppercase;
+font-weight: 700;
+font-size: 50px;
+    }
+.navbar-img{
+    width: 40%;;
+}
+.footer-img{
+    width: 50%;;
+}
+ .amar-img{
+    width: 75%;
+}
+.yellow-jacket{
+    width: 79%;
+}
+.last-img{
+    width: 81%;
+}
+.man-last-image{
+width: 75%;
+}
+.first-image{
+  width: 97%;
+}
+.halka-gulapi{
+    background-color:#FFFBF0 ;
+    height: 100vh;
+}
+img{
+    width: 100%;
+}
+.cyan-color{
+  background-color: #F1F1F1;
+}
+.card-image{
+  border-radius: 25px;
+}
+.price-size{
+  font-size: 30px;
+  font-weight: 700;
+  color: #FABE4C;
+}
+.del-price{
+  font-size: 20px;
+  font-weight: 300;
+ 
+}
+.card-footer{
+  background-color: white;
+  border:none;
+}
+.rounde{
+  border-radius: 15px;
+}
+.font-extra{
+  font-weight: 700;
+  font-size: 40px;
+}
+.font-weight{
+  font-weight: 500;
+}
